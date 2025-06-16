@@ -12,7 +12,7 @@ Un gioco moderno di Carta, Forbici e Sasso con design accattivante e animazioni 
 
 ## 🚀 Demo Live
 
-🔗 **[Gioca Ora](https://your-vercel-url.vercel.app)**
+🔗 **[Gioca Ora](https://carta-forbici-sasso-game.vercel.app/)**
 
 ## 🛠️ Tecnologie Utilizzate
 
@@ -50,14 +50,15 @@ Questo progetto è deployato automaticamente su **Vercel** tramite GitHub integr
 
 ### Setup locale:
 ```bash
-git clone https://github.com/your-username/carta-forbici-sasso-game.git
+git clone https://github.com/GiacomoRicciuto/carta-forbici-sasso-game.git
 cd carta-forbici-sasso-game
 # Apri index.html nel browser
 ```
 
 ## 📱 Screenshot
 
-![Game Screenshot](https://via.placeholder.com/800x400/1a1a2e/4ecdc4?text=Game+Screenshot)
+![Game Screenshot](https://ibb.co/KjGy9kRc)
+![Game Screenshot](https://ibb.co/gbrCC5HC)
 
 ## 🤝 Contributi
 
@@ -73,7 +74,7 @@ Progetto rilasciato sotto licenza MIT.
 
 ## 👨‍💻 Autore
 
-Creato con ❤️ per dimostrare competenze in:
+Creato con ❤ da Giacomo per dimostrare competenze in:
 - Frontend Development
 - UI/UX Design
 - Git Workflow
