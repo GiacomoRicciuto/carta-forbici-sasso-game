@@ -57,8 +57,11 @@ cd carta-forbici-sasso-game
 
 ## 📱 Screenshot
 
-![Game Screenshot](https://ibb.co/KjGy9kRc)
-![Game Screenshot](https://ibb.co/gbrCC5HC)
+### 🎮 Menu Principale
+![Menu Screenshot](https://i.ibb.co/KjGy9kRc/menu-screenshot.png)
+
+### 🎯 Gameplay
+![Gameplay Screenshot](https://i.ibb.co/gbrCC5HC/gameplay-screenshot.png)
 
 ## 🤝 Contributi
 
